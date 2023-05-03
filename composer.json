@@ -11,9 +11,15 @@
         "phpmailer/phpmailer": "^6.7",
         "google/apiclient": "^2.0"
     },
+    "license": "MIT",
     "config": {
         "platform": {
             "php": "7.1.5"
+        }
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
         }
     }
 }
