@@ -1,4 +1,12 @@
 {
+    "name": "talaysa/sendertest",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Salih Talay",
+            "email": "talayweb@hotmail.com"
+        }
+    ],
     "require": {
         "phpmailer/phpmailer": "^6.7",
         "google/apiclient": "^2.0"
